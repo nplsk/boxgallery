@@ -1,0 +1,15 @@
+/*
+Theme Name: Box Gallery (Grayscale)
+Theme URI: http://nplsk.info
+Author: Frank Napolski
+Author URI: http://nplsk.info
+Description: Theme for Box Gallery
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: boxgallery
+*/
+/* Pull out the header and footer */
+.admin-bar .navbar-fixed-top {
+  margin-top: 30px;
+}
