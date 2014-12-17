@@ -27,7 +27,7 @@ function theme_js(){
 }
 
 add_action( 'wp_enqueue_scripts', 'theme_js');
-require_once('wp_bootstrap_navwalker.php');
+
 
 //removes admin_bar
 //add_filter('show_admin_bar','__return_false');
